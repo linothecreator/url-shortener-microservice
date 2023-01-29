@@ -1,6 +1,5 @@
-/*Coded by Niccolo Lampa. email:niccololampa@gmail.com */
-/* TO SEE  ALL FEATURES PLEASE VIEW IN CODESANDBOX FULL/SCREEN ACTUAL MODE * /
-/* PREVIEW MODE DOESN'T SHOW ALL FEATURES */
+/*Coded by RODNEY BROWN rmbrown9520@gmail.com */
+/*FREE CODE CAMP*/
 /* Run on http://localhost:8080/ after node index.js */
 
 // for environment variables
